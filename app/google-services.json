@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971541589729",
+    "project_id": "spindiabrand-6bf12",
+    "storage_bucket": "spindiabrand-6bf12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971541589729:android:f518ef9f2e1af921a511a0",
+        "android_client_info": {
+          "package_name": "com.spindiabrand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971541589729-r90kup72enhkulhjbn0ivf3kqg0ioplt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spindiabrand",
+            "certificate_hash": "9aa8b0368489e19785274892545098be7b9fd0cc"
+          }
+        },
+        {
+          "client_id": "971541589729-i8hvjq28q4po3tvip541opvh0m91q59i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoT4oYEXC8L8NquUx1OQ6Dz35Hn36BAGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971541589729-i8hvjq28q4po3tvip541opvh0m91q59i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
